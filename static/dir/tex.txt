@@ -1,0 +1,2 @@
+this is in static/dir
+changing this
